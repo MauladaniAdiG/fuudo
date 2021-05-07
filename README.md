@@ -47,6 +47,9 @@ I created this application with the help of a very special tools such as:
 | [liquid_swipe](https://pub.dev/packages/liquid_swipe)                 |  2.1.0   |
 | [url_launcher](https://pub.dev/packages/url_launcher)                 |  6.0.3   |
 
+## :heart: Link Api
+for data i've used api from [this](https://www.themealdb.com/api.php)
+
 ## :rocket: Link Apps
 
 I provide a link to download this apps [apk-release](https://drive.google.com/file/d/1vjKTB3uJnlRevX6B0sCK5WmlWajMYavw/view?usp=sharing) and also this is [apk-release-split](https://drive.google.com/drive/folders/113Jt-JrlcIktT_EUlxGsMv9YDfJqpWZa?usp=sharing) folder
