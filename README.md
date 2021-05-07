@@ -9,14 +9,8 @@
 
 ## :iphone: Screenshot
 
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=12p2MS19R-cTtLPtjUaWholRtBPp0OCKv" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1F1VTtYmrmwntF2ZM4mPFU094wa1qmwro" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1c3rEgqx-g-Rcm0iVReblGiQJ8lqCxNXi" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=10GHyPPYPnqTaTzvFeZSFMEJ73_4hHtHI" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1PFhNEZMAhSmjxEEKgUzI67zh_AaZ03_z" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1ryCDdvGuda6YHJk1tC3y1VlV1z1Wl4co" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1Q8J7Hlw10JHwKclDNQzpFNuGeD10VoyV" width="150"/>
-<img alt="ss" src="https://drive.google.com/uc?export=view&id=1Y-fg6V3rATrs4LfHHU0_-E90ICN0eYbt" width="150"/>
+<div>
+<img alt="ss" src="https://drive.google.com/uc?export=view&id=12p2MS19R-cTtLPtjUaWholRtBPp0OCKv" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1F1VTtYmrmwntF2ZM4mPFU094wa1qmwro" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1c3rEgqx-g-Rcm0iVReblGiQJ8lqCxNXi" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=10GHyPPYPnqTaTzvFeZSFMEJ73_4hHtHI" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1PFhNEZMAhSmjxEEKgUzI67zh_AaZ03_z" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1ryCDdvGuda6YHJk1tC3y1VlV1z1Wl4co" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1Q8J7Hlw10JHwKclDNQzpFNuGeD10VoyV" width="250"/> <img alt="ss" src="https://drive.google.com/uc?export=view&id=1Y-fg6V3rATrs4LfHHU0_-E90ICN0eYbt" width="250"/>
 
 ## :gem: Design Insipiration
 
